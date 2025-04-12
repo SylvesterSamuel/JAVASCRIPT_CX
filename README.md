@@ -1,1 +1,1 @@
-# coding-project-template
+# Kindly view the javascript.js
